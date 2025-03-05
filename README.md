@@ -27,8 +27,8 @@
   <img aling="left" src="https://skillicons.dev/icons?i=java,mysql,spring,maven,hibernate,html,css,js,git" alt="My Skills"/>
   <hr width="50%"/>
   <h3>My GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushmishra6198&show_icons=true&&coountprivate=true&theme=react&hide_title=true" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushmishra6198&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub stats"/>
   <hr width="50%"/>
   <h3>Streak</h3>
-  <img src="https://streak-stats.demolab.com/?user=ayushmishra6198&theme=prussian" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=ayushmishra6198&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
 </div>
