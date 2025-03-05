@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush</h1>
-<h3 align="center">Experienced software engineer with 3+ years in software development, specializing in Java Backend Developer</h3>
+<h3 align="center">Experienced software engineer with 3+ years in software development, specializing in Java Backend Development</h3>
 <img align="right" alt="Coding" width="310" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 
 - 📋 I’m currently working on **Spring Applications**
