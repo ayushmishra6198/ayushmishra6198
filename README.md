@@ -30,5 +30,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ayushmishra6198&show_icons=true&&coountprivate=true&theme=react&hide_title=true" alt="GitHub stats"/>
   <hr width="50%"/>
   <h3>Streak</h3>
-  <img src="https://streak-stats.demolab.com/?user=ayushmishra6198&theme=prussian&background=1B1D23" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=ayushmishra6198&theme=prussian" alt="GitHub stats"/>
 </div>
