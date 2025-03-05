@@ -26,9 +26,10 @@
   <h3>My Skills &nbsp; <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" height="24px" align="center" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h3>
   <img aling="left" src="https://skillicons.dev/icons?i=java,mysql,spring,maven,hibernate,html,css,js,git" alt="My Skills"/>
   <hr width="50%"/>
-  <h3>My GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushmishra6198&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <hr width="50%"/>
   <h3>Streak</h3>
   <img src="https://streak-stats.demolab.com/?user=ayushmishra6198&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <hr width="50%"/>
+
+    <h3>My GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushmishra6198&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub stats"/>
 </div>
